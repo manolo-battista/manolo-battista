@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://arkemis.it">
+  <a href="https://arkemis.it" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/81776361?s=200&v=4" style="filter: invert(1)" width="60"/> 
   </a>
   <p>Manolo Battista - Frontend React/Next.js Developer</p>
