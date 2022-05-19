@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/81776361?s=200&v=4" style="filter: invert(1)" width="60"/> 
+  <a href="https://arkemis.it">
+    <img src="https://avatars.githubusercontent.com/u/81776361?s=200&v=4" style="filter: invert(1)" width="60"/> 
+  </a>
   <p>Manolo Battista - Frontend React/Next.js Developer</p>
 </h1>
 
@@ -43,7 +45,8 @@ CSS                16 mins         ▓░░░░░░░░░░░░░░
   
 -------
 
+<!--
 <a href="https://github.com/manolo-battista/manolo-battista">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manolo-battista&repo=manolo-battista&title_color=ffffff&text_color=a7fbd7&icon_color=a7fbd7&bg_color=000000" />
 </a>
-
+-->
